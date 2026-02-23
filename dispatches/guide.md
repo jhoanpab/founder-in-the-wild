@@ -6,17 +6,13 @@ A dispatch is a firsthand account from a founder who's been somewhere. Not a tra
 
 Every dispatch has four sections. What you put inside them is yours.
 
-**Where you were, and why**
-The context. City, event, what brought you there.
+- **Where you were, and why**: The context. City, event, what brought you there.
 
-**What you faced**
-The situation. On the ground. What it actually felt like.
+- **What you faced**: The situation. On the ground. What it actually felt like.
 
-**What you figured out**
-The useful part. The bus route that saved you $60. The neighborhood. The thing nobody told you until you were already there.
+- **What you figured out**: The useful part. The bus route that saved you $60. The neighborhood. The thing nobody told you until you were already there.
 
-**What to tell the next founder**
-The one thing you'd say if they called you the night before their flight.
+- **What to tell the next founder**: The one thing you'd say if they called you the night before their flight.
 
 ---
 
