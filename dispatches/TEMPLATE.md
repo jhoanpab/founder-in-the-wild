@@ -9,11 +9,11 @@ author:
 
 <!--
   Before you start:
-  Rename this file: YYYY-city-name-author.md
-  Example: 2025-buenos-aires-sebastian-pabon.md
+  Rename this file: city-event.md
+  Example: buenos-aires-builderfest.md
 
   Use the three sections below as anchors, not cages.
-  Write a sentence or three paragraphs. Use a list if it's clearer.
+  Write a sentence or a few paragraphs. Use a list if it's clearer.
   Include numbers if they help, a photo if it adds something, a mistake if it's the most honest part.
   Length: as long as it needs to be, no longer.
 -->
@@ -24,7 +24,7 @@ author:
 
 ## What you faced
 
-<!-- The situation on the ground. What it actually felt like. Not the highlight reel. -->
+<!-- The situation on the ground. What it actually felt like. Keep it simple. -->
 
 ## What to tell the next founder
 
