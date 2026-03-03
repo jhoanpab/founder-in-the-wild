@@ -16,22 +16,22 @@ Buenos Aires, Cardano Summit. I wanted to showcase my startup to the Cardano com
 
 - When the airport is far from your accommodation, you always remember, painfully, how much that Uber from the airport cost you.
 
-- an Uber from Ezeiza airport to downtown costs ~USD$22 (~$30000 Argentine Pesos)
+- an Uber from Ezeiza airport to downtown costs ~ USD$22 (~ $30000 Argentine Pesos)
 
-- a bus ticket costs ~$1USD (~$1,000 Argentinian Pesos)
+- a bus ticket costs ~ USD$1 (~$1,000 Argentinian Pesos)
 
-- the card to pay the ticket in the bus costs ~$1USD (~$1,000 Argentine Pesos)
+- the card to pay the ticket in the bus costs ~ $ USD1 (~ $1,000 Argentine Pesos)
 
-- Total costs taking the bus: ~$2USD (~$2,000 Argentine Pesos)
+- Total costs taking the bus: ~ USD$2 (~ $2,000 Argentine Pesos)
 
-- Savings: ~USD$ 20
+- Savings: ~ USD$20
 
 
 ## What to tell the next founder
 
 - Once you arrive at Ezeiza Airport, purchase a *SUBE* card at one of the convenience stores inside the terminal.
 
-- At the same location, load approximately 3,000 Argentine pesos onto the card. That balance should be enough to cover your return trip from the hotel to the airport.
+- At the same location, load approximately $ 3,000 Argentine pesos onto the card. That balance should be enough to cover your return trip from the hotel to the airport.
 
 - Stop by the airport information desk and ask for directions to the “Ruta 8” bus stop (you can say “Ruta ocho” in Spanish). It’s about a three-minute walk from the desk.
 
